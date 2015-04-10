@@ -23,7 +23,7 @@
         <!--Dependency versions-->
         <vertx.version>3.0.0-milestone3</vertx.version>
         <jersey.version>2.17</jersey.version>
-        <jackson.version>2.4.3</jackson.version>
+        <jackson.version>2.4.4</jackson.version>
         <asm.version>3.3.1</asm.version>
 
         <vertx.hk2.version>2.0.0-RC2</vertx.hk2.version>
